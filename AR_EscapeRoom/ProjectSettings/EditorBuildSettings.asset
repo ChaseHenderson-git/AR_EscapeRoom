@@ -5,8 +5,8 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/MixedRealityToolkit.Examples/Experimental/Demos/UX/BoundsControl/Scenes/BoundsControlExamples.unity
-    guid: 1e660854cfb3955469bbe155141377b3
+  - enabled: 1
+    path: Assets/Scenes/EscapeRoom.unity
+    guid: 05e4d1622479165459d1f67977c6c62d
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0fbfe09bb55be09459465846a36aa518, type: 2}
